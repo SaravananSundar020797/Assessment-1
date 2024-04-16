@@ -20,9 +20,11 @@ With this setup, when you click on the cube, the camera smoothly animates toward
 
 Cmd  Run 
 
-''''
+````
 npx vite
 
-npx Serve
+(or)
 
-''''
+npx Serve
+````
+
