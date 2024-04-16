@@ -1,4 +1,4 @@
-"# Assessment-1" 
+
 # Assessment -> 1 
 
 ## Task - 1  : To create a cube, cylinder, and icosphere using the Three.js library 
