@@ -14,3 +14,15 @@ The animateCamera function calculates the target position and rotation of the ca
 When the cube is clicked, the animateCamera function is called to animate the camera towards the front of the cube.
 The TWEEN.update() function is called in the render loop to update the tween animations.
 With this setup, when you click on the cube, the camera smoothly animates towards the front of the cube. Adjust the duration and easing function as needed for your desired effect.
+
+
+## Important 
+
+Cmd  Run 
+
+''''
+npx vite
+
+npx Serve
+
+''''

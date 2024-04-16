@@ -210,10 +210,12 @@ orbit.update();
 camera.position.set(0, 0, 5);
 camera.lookAt(scene.position);
 
+
 // Render loop
 function animate() {
   requestAnimationFrame(animate);
   TWEEN.update();
+  
   renderer.render(scene, camera);
 }
 animate();
